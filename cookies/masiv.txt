@@ -1,0 +1,54 @@
+
+Информация: => Information:
+
+
+заголовок title
+
+страна   country
+
+жанр     genre
+
+режисер   director
+
+сценарист   writer
+
+продюсер    produser
+
+актеры      actors
+
+премьера     premiere
+
+рейтинг IMBD   imbd
+
+длительность  duration
+
+сеансы - 5 кинотеатров    sessions 5 cinemas
+
+описание description
+
+трейлнр   trailer
+
+карта     map
+_____________________________________________________
+karavandnepr   https://multiplex.ua/cinema/karavandnepr
+dafi_imax        https://multiplex.ua/cinema/dafi_imax
+pravda-kino                  http://pravda-kino.dp.ua/raspfilms.php
+materik-kion               http://cinema.dp.ua/?page_id=1990
+most-kino                 http://cinema.dp.ua/?page_id=1990
+________________________________________________________________
+
+date
+year
+session
+coordinates
+__________________________________________________________________
+2d
+3d
+imax
+normal
+_______________________________________--
+
+
+data
+
+time_array();

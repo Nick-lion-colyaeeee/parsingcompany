@@ -124,8 +124,6 @@ function rutranslit($title)
 }/*funtion literals*/
 
 
-
-
 function getcompany($htmlcompany, $catecony_name_directory)
 {
     $http_client = new Client();
